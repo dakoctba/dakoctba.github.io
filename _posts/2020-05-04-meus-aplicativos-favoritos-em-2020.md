@@ -7,7 +7,7 @@ categories: dev
 
 Inspirado em alguns blogs que acompanho regularmente ([Elton Minetto](https://medium.com/@eminetto/aplicativos-indispens%C3%A1veis-em-2016-c3b71c058752), [Willian Justen](https://willianjusten.com.br/meu-setup/), [Zeno Rocha](https://medium.com/@zenorocha/my-top-apps-for-2017-62473cf873a4)) resolvi fazer uma lista dos meus aplicativos favoritos atualmente.
 
-Antes de tudo, é bom dizer que eu utilizo duas estações de trabalho bastante distintas
+Antes de tudo, é bom dizer que eu utilizo duas estações de trabalho bastante distintas. Nem todos os softwares funcionam em ambas as plataformas.
 
 - Computador do trabalho: Notebook Dell com Windows 10 Pro. CPU Intel Core i7 de sétima geração. 16Gb de RAM, um drive SSD de 128Gb e um HD interno de 2Tb.
 - Computador pessoal: Notebook Acer Aspire 5 (A515-51G-70PU) com Linux Mint 19.2 Tina, CPU Intel Core i7 de sétima geração. 20Gb de memória RAM, um drive SSD de 128Gb e um HD interno de 2Tb.
@@ -32,6 +32,5 @@ Antes de tudo, é bom dizer que eu utilizo duas estações de trabalho bastante 
 
 - [Google Drive](https://drive.google.com/) - Todos os meus arquivos importantes são salvos no Google Drive. Atualmente eu tenho o plano de 200Gb.
 
-## Pessoal
 
-Alguns aplicativos ficaram fora da lista para não deixar o post muito grande.
+Alguns aplicativos ficaram fora da lista para não deixar o post muito grande.  ¯\_(ツ)_/¯
