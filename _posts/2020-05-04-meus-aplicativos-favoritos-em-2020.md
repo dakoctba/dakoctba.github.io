@@ -9,7 +9,7 @@ Inspirado em alguns blogs que acompanho regularmente ([Elton Minetto](https://me
 
 Antes de tudo, é bom dizer que eu utilizo duas estações de trabalho bastante distintas
 
-- Computador do trabalho: Notebook Dell XXX com Windows 10 Pro com 16Gb de RAM, um drive SSD de 128Gb 
+- Computador do trabalho: Notebook Dell com Windows 10 Pro. CPU Intel Core i7 de sétima geração. 16Gb de RAM, um drive SSD de 128Gb e um HD interno de 2Tb.
 - Computador pessoal: Notebook Acer Aspire 5 (A515-51G-70PU) com Linux Mint 19.2 Tina, CPU Intel Core i7 de sétima geração. 20Gb de memória RAM, um drive SSD de 128Gb e um HD interno de 2Tb.
 
 ## Softwares
