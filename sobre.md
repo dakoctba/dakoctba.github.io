@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-<img src="https://pbs.twimg.com/profile_images/1021384159732879360/moCrCvkg_400x400.jpg">
+<img src="https://pbs.twimg.com/profile_images/1021384159732879360/moCrCvkg_400x400.jpg" style="float:right">
 
 - Desenvolvedor desde 2002
 - Professor desde 2007
