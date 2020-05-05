@@ -33,4 +33,4 @@ Antes de tudo, é bom dizer que eu utilizo duas estações de trabalho bastante 
 - [Google Drive](https://drive.google.com/) - Todos os meus arquivos importantes são salvos no Google Drive. Atualmente eu tenho o plano de 200Gb.
 
 
-Alguns aplicativos ficaram fora da lista para não deixar o post muito grande.  ¯\_(ツ)_/¯
+Alguns aplicativos ficaram fora da lista para não deixar o post muito grande.  ¯\\_(ツ)_/¯
