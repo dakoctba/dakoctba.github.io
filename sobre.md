@@ -11,6 +11,6 @@ permalink: /sobre/
 - Desenvolvedor desde 2002
 - Professor desde 2007
 - Arquiteto de Soluções na [CINQ Technologies](https://www.cinq.com.br/)
-- Empreendedor desde 2009 ([PJPark](https://pjpark.com.br),[Setbox](https://www.setbox.com.br), [Autoprocess](https://www.autoprocess.com.br))
+- Empreendedor desde 2009 ([PJPark](https://pjpark.com.br), [Setbox](https://www.setbox.com.br), [Autoprocess](https://www.autoprocess.com.br))
 
 
