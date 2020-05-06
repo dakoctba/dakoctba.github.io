@@ -7,7 +7,11 @@ categories: empreendedorismo
 
 > "Ex ore parvulorum veritas"
 
-Empreendedor é um bicho teimoso. Não cansa, não desiste. Já tentei, já fali, já quebrei.
+<br>
+
+Empreendedor é um bicho teimoso. Não cansa, não desiste.
+
+Já tentei, já fali, já quebrei.
 
 Como qualquer mente inquieta, já tive 1 milhão de idéias. Muitas delas materializadas pelas mãos desconhecidas de alguém que apareceu na capa daquela revista famosa.
 
