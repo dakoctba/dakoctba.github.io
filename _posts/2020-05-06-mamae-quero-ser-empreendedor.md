@@ -22,4 +22,6 @@ Há alguns meses tive uma outra idéia, fruto de uma necessidade pessoal: "Hora 
 Nasceu a [PJPark](https://pjpark.com.br)
 
 
-Nunca soube ao certo responder "o que eu quero ser quando crescer". Hoje eu sei: mamãe, quando crescer eu quero ser empreendedor!
+Nunca soube ao certo responder "o que eu quero ser quando crescer". Hoje eu sei:
+
+> "- Mamãe, quando crescer eu quero ser empreendedor!"
