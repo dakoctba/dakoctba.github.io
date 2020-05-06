@@ -5,7 +5,7 @@ date: 2020-05-06 18:42:43 -0500
 categories: empreendedorismo
 ---
 
-_"Ex ore parvulorum veritas"_
+> "Ex ore parvulorum veritas"
 
 <br>
 
@@ -24,4 +24,4 @@ Nasceu a [PJPark](https://pjpark.com.br)
 
 Nunca soube ao certo responder "o que eu quero ser quando crescer". Hoje eu sei:
 
-> "- Mamãe, quando crescer eu quero ser empreendedor!"
+_"- Mamãe, quando crescer eu quero ser empreendedor!"_
