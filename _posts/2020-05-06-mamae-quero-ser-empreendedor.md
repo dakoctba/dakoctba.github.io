@@ -5,7 +5,7 @@ date: 2020-05-06 18:42:43 -0500
 categories: empreendedorismo
 ---
 
-> "Ex ore parvulorum veritas"
+_"Ex ore parvulorum veritas"_
 
 <br>
 
