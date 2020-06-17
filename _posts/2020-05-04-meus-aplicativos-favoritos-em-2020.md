@@ -22,6 +22,8 @@ Antes de tudo, é bom dizer que eu utilizo duas estações de trabalho bastante 
 
 - [Docker](https://www.docker.com/) - Não imagino minha vida de desenvolvedor sem Docker. Uso para configurar e testar ferramentas na minha máquina, uso para rodar pipelines CI/CD e também para suportar plataformas em produção.
 
+- [ctop](https://ctop.sh/) - Muito legal para visualizar e monitorar os containers docker.
+
 - [Mockoon](https://mockoon.com/) - Com o Mockoon consigo testar APIs antes de construí-las de fato. É legal para gerar contratos no momento da documentação. Ah! Você pode criar coleções de endpoints e exportar os arquivos de configuração.
 
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - [**Somente para windows**] É o novo terminal do Windows. Pode parecer bobagem, mas é muito melhor do que o antigo *cmd*. Suporta várias abas, e você pode escolher qual terminal abrir na nova aba (cmd, Power Shell, Windows Power Shell, Azure Cloud Shell, Git bash, WSL, etc).
