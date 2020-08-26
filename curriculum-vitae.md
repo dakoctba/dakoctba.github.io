@@ -12,7 +12,7 @@ Conhecimentos em:
 - NodeJs, Javascript, Jquery, Angular, React, React Native, Redux, Mobx, Vue, Webpack, Sucrase, Grunt, Gulp, Bower
 - Ruby, Ruby on Rails, PHP
 - HTML5, CSS3, Git, SVN
-- Java, Spring, Spring Boot, JEE, JSF, JAX-RS, Struts, Maven, Gradle, Groovy, JPA, Hibernate
+- Java, Kotlin, Spring, Spring Boot, JEE, JSF, JAX-RS, Struts, Maven, Gradle, Groovy, JPA, Hibernate
 - Junit, Selenium, Puppeteer, Cucumber
 - PostgreSQL, MySql, Microsoft SQL Server, Oracle, MongoDB, RethinkDB, Redis, Cassandra, Google Datastore
 - Kafka, AWS SMS, ActiveMQ, RabbitMQ, IBM MQSeries
